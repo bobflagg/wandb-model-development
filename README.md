@@ -1,2 +1,3 @@
-# wandb-model-development
-My project for [W&amp;B Effective MLOps: Model Development course](https://www.wandb.courses/courses/effective-mlops-model-development)
+# Quora Insincere Questions Classification
+
+This is my project for [W&amp;B Effective MLOps: Model Development course](https://www.wandb.courses/courses/effective-mlops-model-development).  The task is take from the [Kaggle Competition](https://www.kaggle.com/competitions/quora-insincere-questions-classification/overview) on developing models to detect toxic and misleading content on [Quora](https://www.quora.com/?share=1) and improve online conversations.
